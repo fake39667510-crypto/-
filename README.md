@@ -1,11 +1,11 @@
-# ?智慧伴读 · 阅读伴侣系统 | Wisdom Reading Companion
+# 智慧伴读 · 阅读伴侣系统 | Wisdom Reading Companion
 
 &gt; **不是替人读书，而是伴人读懂。**
 &gt; _Not just reading for you, but reading with you until you truly understand._
 
 ---
 
-## ? 为什么需要分层阅读？ | Why Tiered Reading?
+## 为什么需要分层阅读 | Why Tiered Reading?
 
 ### 痛点 | The Problem
 
@@ -27,7 +27,7 @@ _Wisdom Reading Companion is a **tiered reading system** built on the improved v
 
 ---
 
-## ? 核心能力 | Core Capabilities
+## 核心能力 | Core Capabilities
 
 ### 三级深度模式 | Three Depth Tiers
 
@@ -39,12 +39,12 @@ _Wisdom Reading Companion is a **tiered reading system** built on the improved v
 
 ### 输出物 | Outputs
 
-- ? Markdown 结构化阅读笔记 — Structured reading notes
-- ? HTML 可视化阅读卡片（交互式信息图）— Interactive HTML reading cards
+- Markdown 结构化阅读笔记 — Structured reading notes
+- HTML 可视化阅读卡片（交互式信息图）— Interactive HTML reading cards
 
 ---
 
-## ? 系统架构 | System Architecture
+## 系统架构 | System Architecture
 
 ```
 智慧伴读/
@@ -69,7 +69,7 @@ graph LR
 
 ---
 
-## ? 安装 | Installation
+## 安装 | Installation
 
 ### OpenSquilla 用户 | OpenSquilla Users
 
@@ -107,9 +107,9 @@ _Copy the prompt templates from the guide to any AI assistant._
 
 ---
 
-## ? 方法论来源 | Methodology Sources
+## 方法论来源 | Methodology Sources
 
-- **花叔《阅读的方法》** — 核心阅读框架 _Core reading framework_
+- **《阅读的方法》** — 核心阅读框架 _Core reading framework_
 - **James P. Carse《有限与无限的游戏》** — 辩论素材 _Debate material_
 - **Richard Feynman** — 费曼学习法（6 岁解释测试）_Feynman Technique_
 - **Charlie Munger** — 跨学科思维模型 _Multidisciplinary mental models_
@@ -117,13 +117,13 @@ _Copy the prompt templates from the guide to any AI assistant._
 
 ---
 
-## ? 许可证 | License
+## 许可证 | License
 
 MIT
 
 ---
 
-## ? 系统信息 | System Info
+## 系统信息 | System Info
 
 - **系统名称**：智慧伴读（2026-06-24 命名）_Named: Wisdom Reading Companion_
 - **版本**：v1.0.0 _Version_
